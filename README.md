@@ -102,12 +102,6 @@ The frontend will run on http://localhost:3000
 - View and manage their property listings
 - Receive inquiries from potential buyers
 
-## Nigeria-Specific Features
-
-- All prices are displayed in Nigerian Naira (₦)
-- Property locations are focused on Nigerian cities
-- Local payment methods supported for property reservations
-
 ## API Endpoints
 
 - `GET /api/properties` - Get all properties
